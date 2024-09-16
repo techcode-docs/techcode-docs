@@ -1,12 +1,18 @@
-
+/* 
 
 .tech-code-carousel{
-    height: calc(100vh - 122px);
+    height: calc(100vh - 56px) !important;
+    object-fit: cover;
 }
 
 @media screen and (max-width:600px) {
     
     .tech-code-carousel{
-        height: 100%;
+        height: calc(100vh - 122px);
     }
+} */
+
+.navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, .55) !important;
+    border-color: #f8f9fa!important;
 }
