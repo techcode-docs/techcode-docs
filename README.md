@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**techcode-docs/techcode-docs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dammar Khadayat
+https://www.dammarkhadayat.com.np 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End Web Development Directories
+[docs\front-end\Front-end-directories.md](docs\front-end\Front-end-directories.md)
+
+
+Front-End Web Development Content
+[docs\front-end\front-end-dev.md](docs\front-end\front-end-dev.md)
+
+
+PHP CRUD Operation step by step
+[docs\back-end\PHP-CRUD.md](docs\back-end\PHP-CRUD.md)
+
+
+Laravel CRUD Operation step by step
+[docs\back-end\Laravel-cRUD.md](docs\back-end\Laravel-cRUD.md)
+
+
+Laravel All commands
+[docs\back-end\laravel-commands.md](docs\back-end\laravel-commands.md)
